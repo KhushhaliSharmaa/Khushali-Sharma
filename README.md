@@ -12,6 +12,15 @@
 ![](https://img.shields.io/badge/MSc_Data_Analytics_&_Decision_Science-RWTH_Aachen-6e40c9?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Open_to-Werkstudent_&_Internship_Roles-06b6d4?style=for-the-badge&logoColor=white)
 
+<div align="center">
+
+![](https://img.shields.io/badge/-Machine%20Learning-6e40c9?style=for-the-badge)
+![](https://img.shields.io/badge/-Data%20Science-a855f7?style=for-the-badge)
+![](https://img.shields.io/badge/-Applied%20AI-6e40c9?style=for-the-badge)
+![](https://img.shields.io/badge/-Signal%20Processing-06b6d4?style=for-the-badge)
+![](https://img.shields.io/badge/-Cognitive%20Neuroscience-0d9488?style=for-the-badge)
+![](https://img.shields.io/badge/-Cognitive%20Robotics-4f46e5?style=for-the-badge)
+
 </div>
 
 <br/>
@@ -43,11 +52,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
-<div align="center">
-
-*Open to Werkstudent, Internship & Student Assistantship opportunities*
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e40c9,50:a855f7,100:06b6d4&height=100&section=footer&animation=fadeIn" />
-
-</div>
