@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/-Applied%20AI-6e40c9?style=for-the-badge)
 ![](https://img.shields.io/badge/-Signal%20Processing-06b6d4?style=for-the-badge)
 ![](https://img.shields.io/badge/-Cognitive%20Neuroscience-0d9488?style=for-the-badge)
-![](https://img.shields.io/badge/-Cognitive%20Robotics-4f46e5?style=for-the-badge)
 
 </div>
 
